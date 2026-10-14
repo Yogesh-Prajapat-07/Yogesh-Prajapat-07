@@ -14,7 +14,7 @@ An enthusiastic Web Developer focused on building clean, interactive, and user-f
 ### 💻 Featured Projects
 
 Here are some of my top projects that showcase my development journey:
-
+* ** https://taskmanager-workspace.vercel.app **- Task Manager and assign tasks
 * **[Spotify-Clone](https://github.com)** - A music player web application crafted beautifully with HTML and pure CSS.
 * **[Spotify-Project2](https://github.com)** - An advanced version of the music app integrated with dynamic JavaScript functionality.
 * **X.Home / X Home** - Responsive front-end layouts recreating modern social platform interfaces using HTML & CSS.
